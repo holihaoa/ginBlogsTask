@@ -1,0 +1,80 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:19:40.451	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:19:40.462	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:96	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:26:35.875	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:26:35.876	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:26:38.357	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:26:38.367	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:96	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:29:04.114	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:29:04.115	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:32:47.316	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:32:47.326	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:96	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:34:42.637	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:34:42.637	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:57:57.604	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:57:57.612	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:96	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:59:12.015	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 11:59:12.015	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 13:43:59.855	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 13:43:59.865	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:97	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 13:44:31.479	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 13:44:31.480	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 13:45:08.262	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 13:45:08.270	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:97	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 13:45:46.862	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 13:45:46.863	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:10:22.064	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:10:22.072	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:14:02.574	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:14:02.574	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:14:04.866	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:14:04.877	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:15:39.032	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:15:39.033	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:22:51.249	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:22:51.258	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:31:41.528	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:31:41.529	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:33:12.502	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:33:12.510	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:34:14.658	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:34:14.659	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:34:15.923	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:34:15.932	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:35:11.703	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:35:11.703	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:35:12.902	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:35:12.912	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:36:01.016	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:36:01.016	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:36:02.145	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:36:02.155	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:44:34.455	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:44:34.456	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:44:35.745	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:44:35.753	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:46:16.728	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 15:46:16.729	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:15:06.314	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:15:06.325	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:19:51.764	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:19:51.764	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:22:32.994	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:22:33.003	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:23:33.935	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:23:33.935	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:23:34.293	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:23:34.303	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:24:44.498	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:24:44.498	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:43:11.774	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:43:11.782	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:47:48.336	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:47:48.336	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:47:50.662	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:47:50.671	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:49:22.848	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:49:22.849	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:49:24.971	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/gorm.go:65	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:49:24.980	[34minfo[0m	E:/web3/code/ginBlogsTask/server/initialize/router.go:71	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:50:24.941	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:48	关闭WEB服务...
+[github.com/flipped-aurora/gin-vue-admin/server]2025-10-15 16:50:24.941	[34minfo[0m	E:/web3/code/ginBlogsTask/server/core/server_run.go:59	WEB服务已关闭
